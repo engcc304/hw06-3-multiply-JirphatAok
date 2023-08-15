@@ -87,7 +87,7 @@ int main () {
 
     for (int i = start; i <= end; i++)
     {
-        for ( int i2 = start; i2 <= 9; i2++)
+        for ( int i2 = 1; i2 <= 9; i2++)
         {
             printf( "%d x %d = %d\n", i, i2, i2 * i);
         }
