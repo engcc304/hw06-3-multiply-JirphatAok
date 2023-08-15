@@ -23,3 +23,12 @@
         929 = CMXXIX
 
 */
+#include <stdio.h>
+int main () {
+    scanf( "%d",&Numinput) ;
+    for (size_t i = 0; i < count; i++)
+    {
+        /* code */
+    }
+    
+}
